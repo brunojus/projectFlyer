@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
   "private": true,
   "scripts": {
     "prod": "gulp --production",
@@ -15,8 +14,8 @@
     "lodash": "^4.16.2",
     "vue": "^2.0.1",
     "vue-resource": "^1.0.3"
-  }
-=======
+  },
+
   "name": "cursos",
   "version": "1.0.0",
   "description": "",
@@ -26,5 +25,5 @@
   },
   "author": "",
   "license": "ISC"
->>>>>>> 8df5d42844a225842d3423288bf3169db977f1ff
+
 }
